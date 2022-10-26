@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rizalpane
+- 👋 Hi, I’m @qiqi
 - 👀 I’m interested in css, javascript ,html
 - 🌱 I’m currently learning web programing
 - 💞️ I’m looking to collaborate on nothing piople
